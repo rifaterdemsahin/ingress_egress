@@ -28,3 +28,7 @@
 
 ![image](https://github.com/user-attachments/assets/3eac583a-a651-4f43-b320-c27614a472a2)
 ![image](https://github.com/user-attachments/assets/de8647cc-ce8f-4462-a42e-58c3bad38c59)
+
+
+- Replit to have a url coming in
+![image](https://github.com/user-attachments/assets/78d1a00e-2912-47b1-ba5e-e32ee1150101)
