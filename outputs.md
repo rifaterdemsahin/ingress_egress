@@ -22,3 +22,9 @@
 - More Complex Actions there is a build in api build in
 
 ![image](https://github.com/user-attachments/assets/bf55e8be-f71a-43e7-8414-43eff041db13)
+
+
+- Environment Updates
+
+![image](https://github.com/user-attachments/assets/3eac583a-a651-4f43-b320-c27614a472a2)
+![image](https://github.com/user-attachments/assets/de8647cc-ce8f-4462-a42e-58c3bad38c59)
