@@ -32,3 +32,6 @@
 
 - Replit to have a url coming in
 ![image](https://github.com/user-attachments/assets/78d1a00e-2912-47b1-ba5e-e32ee1150101)
+
+- Gemini Based Symbol Support
+![image](https://github.com/user-attachments/assets/13e9f708-0304-4fca-aef8-8e8d62d6dbf2)
