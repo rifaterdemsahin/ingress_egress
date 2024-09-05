@@ -5,3 +5,7 @@
 
 - Real time file creation
 ![image](https://github.com/user-attachments/assets/39b86c23-a336-46f6-8aa2-476bfbe0fe5c)
+
+
+- Conflict resolve
+![image](https://github.com/user-attachments/assets/9add349f-fa5c-4656-b6fa-bf827a3a9788)
