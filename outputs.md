@@ -35,3 +35,8 @@
 
 - Gemini Based Symbol Support
 ![image](https://github.com/user-attachments/assets/13e9f708-0304-4fca-aef8-8e8d62d6dbf2)
+
+- Replit visual outputs for the git
+
+![image](https://github.com/user-attachments/assets/6e6a303e-cf61-4fda-a236-19d25c684146)
+
