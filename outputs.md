@@ -9,3 +9,6 @@
 
 - Conflict resolve
 ![image](https://github.com/user-attachments/assets/9add349f-fa5c-4656-b6fa-bf827a3a9788)
+
+- Integration build in for openshift
+- ![image](https://github.com/user-attachments/assets/bc6b4ec1-613c-488e-8234-971384bfe436)
